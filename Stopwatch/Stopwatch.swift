@@ -2,7 +2,7 @@
 //  Stopwatch.swift
 //  Stopwatch
 //
-//  Created by 이현호 on 2020/06/06.
+//  Created by 이선호 on 2022/06/17.
 //  Copyright © 2020 tempYsoup. All rights reserved.
 //
 

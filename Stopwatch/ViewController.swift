@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Stopwatch
 //
-//  Created by 이현호 on 2020/05/28.
+//  Created by 이선호 on 2022/06/17.
 //  Copyright © 2020 tempYsoup. All rights reserved.
 //
 
